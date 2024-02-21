@@ -1,2 +1,4 @@
-
+desktop.ini
+.gitignore
+.gitattributes
 __pycache__/ascii.cpython-312.pyc
